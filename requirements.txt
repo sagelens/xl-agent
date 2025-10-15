@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+duckdb
+ollama
+sqlglot
+PyYAML
+huggingface-hub
+llama-cpp-python
