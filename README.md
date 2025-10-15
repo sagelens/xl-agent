@@ -11,7 +11,7 @@ The agent can be configured to use one of two runtimes for Natural Language to S
 
 # Set to 'true' to use the Ollama runtime.
 # Set to 'false' to use a local GGUF model with llama-cpp-python runtime.
-USE_OLLAMA: true'
+USE_OLLAMA: true
 ```
 
 ## Setup Instructions
